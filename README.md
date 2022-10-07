@@ -15,3 +15,4 @@ Web application that uses Django to implement a forum template.
 - Added markdown for messages
 - Markdown editor using SimpleMDE
 
+![Markdown SimpleMDE](markdownadded.png)
