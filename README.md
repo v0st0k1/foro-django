@@ -16,3 +16,6 @@ Web application that uses Django to implement a forum template.
 - Markdown editor using SimpleMDE
 
 ![Markdown SimpleMDE](markdownadded.png)
+
+- Humanize package used to improve the comprehension of the data
+- Using Gravatar to manage profile pictures
