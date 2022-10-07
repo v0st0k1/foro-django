@@ -8,5 +8,5 @@ Web application that uses Django to implement a forum template.
 - Data models 
 - View structure 
 - Extensibility 
-- User authentication 
+- User authentication system and account manage
 - Multiple structured tests
