@@ -12,3 +12,6 @@ Web application that uses Django to implement a forum template.
 - Extensibility 
 - User authentication system and account manage
 - Multiple structured tests
+- Added markdown for messages
+- Markdown editor using SimpleMDE
+
