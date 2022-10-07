@@ -2,6 +2,8 @@
 
 Web application that uses Django to implement a forum template.
 
+![Forum preview](forum_previw.png)
+
 
 ## Aspects covered: 
 
